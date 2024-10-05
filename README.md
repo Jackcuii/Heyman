@@ -13,4 +13,4 @@ Tools are developed independently and added to Heyman, but I may design individu
 I plan to implement some of them using Python and reconstruct them with Rust in the future.
 
 ### Available
- [GPT2Archive](https://github.com/Jackcuii/GPT2Archive) GPT2Archive v1.0
+ [GPT2Archive](https://github.com/Jackcuii/GPT2Archive) v1.0
