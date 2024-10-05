@@ -11,3 +11,7 @@ Heyman includes some tools: GPT2Archive, Schedulist, 3-line Typer etc.  (Most ar
 Heyman is like a framework-plugin structure.   
 Tools are developed independently and added to Heyman, but I may design individual GUI version for some of them (Schedulist for example).   
 I plan to implement some of them using Python and reconstruct them with Rust in the future.
+
+Available:
+
+ [GPT2Archive](https://github.com/Jackcuii/GPT2Archive) GPT2Archive v1.0
